@@ -1,0 +1,185 @@
+{
+    "Products": [
+      {
+        "id": 1,
+        "tipo": "Camisa",
+        "nome": "OffSet Y2K",
+        "preco": 88.0
+      },
+      {
+        "id": 2,
+        "tipo": "Sapato",
+        "nome": "Elegance",
+        "preco": 120.5
+      },
+      {
+        "id": 3,
+        "tipo": "Bolsa",
+        "nome": "Urban Style",
+        "preco": 65.99
+      },
+      {
+        "id": 4,
+        "tipo": "Relógio",
+        "nome": "Precision",
+        "preco": 200.0
+      },
+      {
+        "id": 5,
+        "tipo": "Perfume",
+        "nome": "Midnight Charm",
+        "preco": 45.75
+      },
+      {
+        "id": 6,
+        "tipo": "Óculos",
+        "nome": "Solar Eclipse",
+        "preco": 79.99
+      },
+      {
+        "id": 7,
+        "tipo": "Calça",
+        "nome": "Jeans Vintage",
+        "preco": 55.25
+      },
+      {
+        "id": 8,
+        "tipo": "Cinto",
+        "nome": "Fashionista",
+        "preco": 30.0
+      },
+      {
+        "id": 9,
+        "tipo": "Mochila",
+        "nome": "Adventure Explorer",
+        "preco": 75.5
+      },
+      {
+        "id": 10,
+        "tipo": "Boné",
+        "nome": "Retro Cool",
+        "preco": 20.99
+      },
+      {
+        "id": 11,
+        "tipo": "Colar",
+        "nome": "Starlight",
+        "preco": 35.8
+      },
+      {
+        "id": 12,
+        "tipo": "Jaqueta",
+        "nome": "Urban Camo",
+        "preco": 110.0
+      },
+      {
+        "id": 13,
+        "tipo": "Tênis",
+        "nome": "Speed Racer",
+        "preco": 95.25
+      },
+      {
+        "id": 14,
+        "tipo": "Pulseira",
+        "nome": "Charme Eterno",
+        "preco": 15.99
+      },
+      {
+        "id": 15,
+        "tipo": "Vestido",
+        "nome": "Floral Dream",
+        "preco": 62.5
+      },
+      {
+        "id": 16,
+        "tipo": "Chapéu",
+        "nome": "Boho Chic",
+        "preco": 25.0
+      },
+      {
+        "id": 17,
+        "tipo": "Meias",
+        "nome": "Funky Colors",
+        "preco": 8.49
+      },
+      {
+        "id": 18,
+        "tipo": "Carteira",
+        "nome": "Classic Leather",
+        "preco": 40.75
+      },
+      {
+        "id": 19,
+        "tipo": "Camiseta",
+        "nome": "Graphic Revolution",
+        "preco": 28.0
+      },
+      {
+        "id": 20,
+        "tipo": "Anel",
+        "nome": "Radiant Gem",
+        "preco": 50.0
+      },
+      {
+        "id": 21,
+        "tipo": "Shorts",
+        "nome": "Summer Breeze",
+        "preco": 38.99
+      },
+      {
+        "id": 22,
+        "tipo": "Sapato",
+        "nome": "Casual Comfort",
+        "preco": 90.0
+      },
+      {
+        "id": 23,
+        "tipo": "Lenço",
+        "nome": "Silk Elegance",
+        "preco": 12.5
+      },
+      {
+        "id": 24,
+        "tipo": "Blusa",
+        "nome": "Striped Harmony",
+        "preco": 42.0
+      },
+      {
+        "id": 25,
+        "tipo": "Relógio",
+        "nome": "Smart Tech",
+        "preco": 150.0
+      },
+      {
+        "id": 26,
+        "tipo": "Pijama",
+        "nome": "Cozy Nights",
+        "preco": 33.75
+      },
+      {
+        "id": 27,
+        "tipo": "Brincos",
+        "nome": "Diamond Sparkle",
+        "preco": 75.99
+      },
+      {
+        "id": 28,
+        "tipo": "Cachecol",
+        "nome": "Winter Wonderland",
+        "preco": 18.5
+      },
+      {
+        "id": 29,
+        "tipo": "Mala",
+        "nome": "Travel Explorer",
+        "preco": 120.0
+      },
+      {
+        "id": 30,
+        "tipo": "Camiseta",
+        "nome": "Vintage Vibe",
+        "preco": 32.5
+      }
+    ]
+  }
+  
